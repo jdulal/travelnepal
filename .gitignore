@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+.env.local
+*.log
+.DS_Store
+ref-*.png
+home.html
+listing.html
+itinerary.html
+admin.html
+admin_headers.txt
+ref-style.css
+ref-hero.css
+
+.mysql-data
+database
